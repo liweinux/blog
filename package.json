@@ -1,0 +1,10 @@
+{
+  "name": "my-hugo-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "hugo --minify"
+  },
+  "devDependencies": {
+    "hugo-bin": "^0.152.2"
+  }
+}
